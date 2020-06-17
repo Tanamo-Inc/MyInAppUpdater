@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyInAppUpdater</string>
+    <string name="available_version_code">Available version code:</string>
+    <string name="update_available">Update available:</string>
+    <string name="immediate">IMMEDIATE</string>
+    <string name="flexible">FLEXIBLE</string>
+    <string name="update">Update</string>
 </resources>
